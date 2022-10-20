@@ -87,7 +87,7 @@ $('.home-carousel').owlCarousel({
     dots: false,
     smartSpeed: 700,
     autoplay: true,
-    autoplayTimeout: 10000,  
+    autoplayTimeout: 8000,  
     responsive: {
         0: {
             items:1

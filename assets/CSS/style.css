@@ -1162,6 +1162,7 @@ footer{
     }
     .best__destination{
         left: auto;
+        top: auto;
         right: 5vw;
         bottom: 150px;
     }
